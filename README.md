@@ -6,8 +6,8 @@ Skills:
 Python | SQL | Machine Learning | Pandas | NumPy | Matplotlib | Seaborn | Streamlit
 
 Currently working on:
-Machine Learning Projects
-Data Analysis Projects
+• Machine Learning Projects
+• Data Analysis Projects
 
 Learning:
 Advanced ML and Cloud Data Platforms
