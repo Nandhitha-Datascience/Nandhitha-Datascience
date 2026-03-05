@@ -1,6 +1,7 @@
 Hi, I'm Nandhitha 👋
 
-Aspiring Data Scientist passionate about solving real-world problems using data.
+Hi, I'm Nandhitha 👋
+Aspiring Data Scientist | Python | SQL | Machine Learning
 
 Skills:
 Python | SQL | Machine Learning | Pandas | NumPy | Matplotlib | Seaborn | Streamlit
