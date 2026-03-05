@@ -1,6 +1,5 @@
 Hi, I'm Nandhitha 👋
 
-Hi, I'm Nandhitha 👋
 Aspiring Data Scientist | Python | SQL | Machine Learning
 
 Skills:
